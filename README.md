@@ -4,6 +4,8 @@
 
 AI can recommend your next song, help spot spam, forecast demand, or draft a first version of a document. This guide explores the different tools behind those experiences, with clear explanations and small Python examples you can try yourself.
 
+> 🧭 **Keep exploring:** Continue to the [AI Agent Roadmap](https://github.com/ursleeplessprogrammer/AI-Agent-Roadmap) to learn how AI agents work and how to build one.
+
 ---
 
 ## 🗺️ The map: types of AI
